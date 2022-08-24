@@ -21,7 +21,7 @@
       </tbody>
     <% end %>
   </table>
-  
+
   <% if @book.errors.any? %>
    <%= @book.errors.count %>errors prohibited this book from being saved:
    <ul>
@@ -32,7 +32,7 @@
 <% end %>
 <br>
 <br>
-  
+
   <h2>New book</h2>
   <%= form_with model: @book do |f|%>
     <div class="field">
