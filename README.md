@@ -25,7 +25,7 @@
 - フレームワーク：Ruby on Rails
 - IDE：Cloud9
 
-## 
+## 使用したGem
 - gem 'capybara', '>= 2.15'
 - gem 'rspec-rails'
 - gem 'factory_bot_rails'
