@@ -11,34 +11,11 @@ body {
 }
 
 table {
-    display: table;
-    // border-collapse: separate;
-    // box-sizing: border-box;
-    // text-indent: initial;
-    // border-spacing: 2px;
     border-color: grey;
-}
-
-thead {
-    display: table-header-group;
-    // vertical-align: middle;
-    // border-color: inherit;
-}
-
-tr {
-    display: table-row;
-    // vertical-align: inherit;
-    // border-color: inherit;
 }
 
 th {
     padding-bottom: 5px;
-}
-
-tbody {
-    display: table-row-group;
-    vertical-align: middle;
-    border-color: inherit;
 }
 
 td {
@@ -48,12 +25,7 @@ td {
 }
 
 h2 {
-    display: block;
     font-size: 1.5em;
-    // margin-block-start: 0.83em;
-    // margin-block-end: 0.83em;
-    // margin-inline-start: 0px;
-    // margin-inline-end: 0px;
     font-weight: bold;
 }
 
@@ -62,15 +34,20 @@ div.field, div.actions {
 }
 
 h1 {
-    display: block;
     font-size: 2em;
-    // margin-block-start: 0.67em;
-    // margin-block-end: 0.67em;
-    // margin-inline-start: 0px;
-    // margin-inline-end: 0px;
     font-weight: bold;
 }
 
 a:visited {
     color: #666;
+}
+#notice {
+    color: green;
+}
+
+p, ol, ul, td {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
 }
