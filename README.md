@@ -1,7 +1,7 @@
 # アプリケーションを作成してみよう：基礎編
 <img width="888" alt="スクリーンショット 2022-08-24 19 03 23" src="https://user-images.githubusercontent.com/66726846/186391290-7fa89e64-ffad-4bcd-9855-d9d75c06a492.png">
 
-## 
+## 課題手順
 - Cloud9でRailsアプリケーションを作成
 - modelファイルの作成
 - データベース上に必要なテーブルを作成
