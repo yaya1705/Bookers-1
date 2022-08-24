@@ -24,3 +24,9 @@
 - 言語：HTML,CSS,Ruby,SQL
 - フレームワーク：Ruby on Rails
 - IDE：Cloud9
+
+## 
+- gem 'capybara', '>= 2.15'
+- gem 'rspec-rails'
+- gem 'factory_bot_rails'
+- gem 'faker'
