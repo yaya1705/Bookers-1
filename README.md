@@ -19,6 +19,7 @@
 - bookのdestroy機能の作成
 - フラッシュメッセージの実装(create,updateが成功したとき)
 - バリデーションの実装(create,updateが失敗したとき)
+- RSpecテスト実施
 
 ## 開発環境
 - 言語：HTML,CSS,Ruby,SQL
